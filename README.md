@@ -3,6 +3,7 @@
 
 <br>
 1. SLAM implementation
+<br>
 2. Autonomous Grid type Navigation using RPLidar on the TurtleBot3
 <br>
 
